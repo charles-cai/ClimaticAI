@@ -1,0 +1,5 @@
+.DS_Store
+debug.log
+venv/ # Example for ignoring virtual environment
+
+.env
