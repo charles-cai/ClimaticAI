@@ -36,10 +36,11 @@ Over the 24 hours of Meta Llama Impact Hackathon London, I managed to have build
 | 1 | Round LED monitor to simulate final product, dual monitor setup as a dev environment for UI / UX design (Three.js running via Chronium Browser | ![dev-setup1](https://github.com/user-attachments/assets/0eddc744-e9d5-447b-962c-fd2ecd0545a7) |
 | 2 | Another dual monitor (one for dedicated metrics monitoring) setup for LLM edge computing optmization, Bigger round shapped LED screen for better illustration, External Speaker for Hi-Fi voice and Music / Streaming use case, Piper TTS working on the edge. | ![dev-setup0](https://github.com/user-attachments/assets/cf9cb992-6a6b-4136-837d-d2576748b4a0) |
 
-Planned evaluations in the coming week: 
-1 - Vision Model calling via Internet (already tested not possible to run on the edge)
-2 - non LLM/VLM Computer Vision via Pi Camera on the edge device (e.g. OpenCV, POSE, ...)
-3 - ASR test via dual microphone, 6-microphone array (to test under noisy, weak volume scenarios)
-4 - ...
+***Planned evaluations in the coming week:***
+
+1. Vision Model calling via Internet (already tested not possible to run on the edge)
+2. non LLM/VLM Computer Vision via Pi Camera on the edge device (e.g. OpenCV, POSE, ...)
+3. ASR test via dual microphone, 6-microphone array (to test under noisy, weak volume scenarios)
+4. ...
 
 Charles Cai
